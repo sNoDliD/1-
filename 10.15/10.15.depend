@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571130843 source:c:\универ\ОП\1семест\10.15\main.cpp
+	<iostream>
+	<deque>
+	<iomanip>
+

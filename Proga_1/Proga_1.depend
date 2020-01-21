@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568105341 source:c:\универ\ОП\1семест\proga_1\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

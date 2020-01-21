@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1573026903 source:c:\универ\ОП\1семест\filework\main.cpp
+	<iostream>
+	"FileWork.h"
+
+1573026916 c:\универ\ОП\1семест\filework\filework.h
+	<iostream>
+	<string>
+	<fstream>
+
+1572984799 c:\универ\ОП\1семест\filework\filework.cpp
+	"FileWork.h"
+
+1573026948 source:c:\универ\ОП\1семест\filework\filework.cpp
+	"FileWork.h"
+

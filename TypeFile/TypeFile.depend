@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1573569131 source:c:\универ\ОП\1семест\typefile\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"type.h"
+
+1573569048 c:\универ\ОП\1семест\typefile\type.h
+	<iostream>
+	<string>
+	<vector>
+
+1573569294 source:c:\универ\ОП\1семест\typefile\type.cpp
+	"type.h"
+
